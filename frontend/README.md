@@ -19,6 +19,8 @@ Here's an example user story that may help guide what you develop:
 
 ## My Solution
 
+![](https://github.com/kathdovi/dockless-vehicles/blob/master/frontend/react/pic1.png)
+![](https://github.com/kathdovi/dockless-vehicles/blob/master/frontend/react/pic2.png)
 For this project, I processed data about the dockless vehicles in Austin during SXSW. I then displayed a few forms of visualization for these data. I wanted the user to be able to see the differences in individual days during SXSW, so I presented a line graph for the number of trips, number of unique vehicles, and the number of miles per day. Totals for these statistics are also presented at the top of the website.
 
 ### Technologies Used
